@@ -5,7 +5,8 @@
 body {
   background-image: url("/ArtbirdSticker.png");
   background-color: #ffffff;
-
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .landing-wrap {
